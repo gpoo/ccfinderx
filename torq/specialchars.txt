@@ -1,0 +1,252 @@
+001  &quot;  &#34;  &#x22; """  クォーテーション quotation mark = APL quote  
+002  &amp;  &#38;  &#x26; "&"  アンパサンド ampersand  
+003  &lt;  &#60;  &#x3C; "<"  小なり  less-than sign  
+004  &gt;  &#62;  &#x3E; ">"  大なり  greater-than sign  
+005  &nbsp;  &#160; &#xA0; " " 空白  no-break space = non-breaking space  
+006  &iexcl;  &#161; &#xA1; "!"  inverted exclamation mark  
+007  &cent;  &#162; &#xA2; "￠" セント  cent sign  
+008  &pound;  &#163; &#xA3; "￡" ポンド  pound sign  
+009  &curren; &#164; &#xA4; "?"  currency sign  
+010  &yen;  &#165; &#xA5; "\" 円  yen sign = yuan sign  
+011  &brvbar; &#166; &#xA6; "|" 縦棒  broken bar = broken vertical bar  
+012  &sect;  &#167; &#xA7; "§"  section sign  
+013  &uml;  &#168; &#xA8; "¨"  diaeresis = spacing diaeresis  
+014  &copy  &#169; &#xA9; "c" コピーライト copyright sign  
+015  &ordf;  &#170; &#xAA; "a"  feminine ordinal indicator  
+016  &laquo;  &#171; &#xAB; "≪"  left-pointing double angle quotation mark = left pointing guillemet  
+017  &not;  &#172; &#xAC; "￢"  not sign  
+018  &shy;  &#173; &#xAD; "-"  soft hyphen = discretionary hyphen  
+019  &reg;  &#174; &#xAE; "R"  registered sign = registered trade mark sign  
+020  &macr;  &#175; &#xAF; "￣"  macron = spacing macron = overline = APL overbar  
+021  &deg;  &#176; &#xB0; "°"  degree sign  
+022  &plusmn; &#177; &#xB1; "±"  plus-minus sign = plus-or-minus sign  
+023  &sup2;  &#178; &#xB2; "2" 平方  superscript two = superscript digit two = squared  
+024  &sup3;  &#179; &#xB3; "3" 立方  superscript three = superscript digit three = cubed  
+025  &acute;  &#180; &#xB4; "´"  acute accent = spacing acute  
+026  &micro;  &#181; &#xB5; "μ" マイクロ  micro sign  
+027  &para;  &#182; &#xB6; "¶"  pilcrow sign = paragraph sign  
+028  &middot; &#183; &#xB7; "・"  middle dot = Georgian comma = Greek middle dot  
+029  &cedil;  &#184; &#xB8; "，"  cedilla = spacing cedilla  
+020  &sup1;  &#185; &#xB9; "1"  superscript one = superscript digit one  
+031  &ordm;  &#186; &#xBA; "o"  masculine ordinal indicator  
+032  &raquo;  &#187; &#xBB; "≫"  right-pointing double angle quotation mark = right pointing guillemet  
+033  &frac14; &#188; &#xBC; "?"  vulgar fraction one quarter = fraction one quarter  
+034  &frac12; &#189; &#xBD; "?"  vulgar fraction one half = fraction one half  
+035  &frac34; &#190; &#xBE; "?"  vulgar fraction three quarters = fraction three quarters  
+036  &iquest; &#191; &#xBF; "?"  inverted question mark = turned question mark  
+037  &Agrave; &#192; &#xC0; "A"  latin capital letter A with grave = latin capital letter A grave  
+038  &Aacute; &#193; &#xC1; "A"  latin capital letter A with acute  
+039  &Acirc;  &#194; &#xC2; "A"  latin capital letter A with circumflex  
+040  &Atilde; &#195; &#xC3; "A"  latin capital letter A with tilde  
+041  &Auml;  &#196; &#xC4; "A"  latin capital letter A with diaeresis  
+042  &Aring;  &#197; &#xC5; "A"  latin capital letter A with ring above = latin capital letter A ring  
+043  &AElig;  &#198; &#xC6; "A"  latin capital letter AE = latin capital ligature AE  
+044  &Ccedil; &#199; &#xC7; "C"  latin capital letter C with cedilla  
+045  &Egrave; &#200; &#xC8; "E"  latin capital letter E with grave  
+046  &Eacute; &#201; &#xC9; "E"  latin capital letter E with acute  
+047  &Ecirc;  &#202; &#xCA; "E"  latin capital letter E with circumflex  
+048  &Euml;  &#203; &#xCB; "E"  latin capital letter E with diaeresis  
+049  &Igrave; &#204; &#xCC; "I"  latin capital letter I with grave  
+050  &Iacute; &#205; &#xCD; "I"  latin capital letter I with acute  
+051  &Icirc;  &#206; &#xCE; "I"  latin capital letter I with circumflex  
+052  &Iuml;  &#207; &#xCF; "I"  latin capital letter I with diaeresis  
+053  &ETH;  &#208; &#xD0; "D"  latin capital letter ETH  
+054  &Ntilde; &#209; &#xD1; "N"  latin capital letter N with tilde  
+055  &Ograve; &#210; &#xD2; "O"  latin capital letter O with grave  
+056  &Oacute; &#211; &#xD3; "O"  latin capital letter O with acute  
+057  &Ocirc;  &#212; &#xD4; "O"  latin capital letter O with circumflex  
+058  &Otilde; &#213; &#xD5; "O"  latin capital letter O with tilde  
+059  &Ouml;  &#214; &#xD6; "O"  latin capital letter O with diaeresis  
+060  &times;  &#215; &#xD7; "×"  multiplication sign  
+061  &Oslash; &#216; &#xD8; "O"  latin capital letter O with stroke = latin capital letter O slash  
+062  &Ugrave; &#217; &#xD9; "U"  latin capital letter U with grave  
+063  &Uacute; &#218; &#xDA; "U"  latin capital letter U with acute  
+064  &Ucirc;  &#219; &#xDB; "U"  latin capital letter U with circumflex  
+065  &Uuml;  &#220; &#xDC; "U"  latin capital letter U with diaeresis  
+066  &Yacute; &#221; &#xDD; "Y"  latin capital letter Y with acute  
+067  &THORN;  &#222; &#xDE; "T"  latin capital letter THORN  
+068  &szlig;  &#223; &#xDF; "s"  latin small letter sharp s = ess-zed  
+069  &agrave; &#224; &#xE0; "a"  latin small letter a with grave = latin small letter a grave  
+070  &aacute; &#225; &#xE1; "a"  latin small letter a with acute  
+071  &acirc;  &#226; &#xE2; "a"  latin small letter a with circumflex  
+072  &atilde; &#227; &#xE3; "a"  latin small letter a with tilde  
+073  &auml;  &#228; &#xE4; "a"  latin small letter a with diaeresis  
+074  &aring;  &#229; &#xE5; "a"  latin small letter a with ring above = latin small letter a ring  
+075  &aelig;  &#230; &#xE6; "a"  latin small letter ae = latin small ligature ae  
+076  &ccedil; &#231; &#xE7; "c"  latin small letter c with cedilla  
+077  &egrave; &#232; &#xE8; "e"  latin small letter e with grave  
+078  &eacute; &#233; &#xE9; "e"  latin small letter e with acute  
+079  &ecirc;  &#234; &#xEA; "e"  latin small letter e with circumflex  
+080  &euml;  &#235; &#xEB; "e"  latin small letter e with diaeresis  
+081  &igrave; &#236; &#xEC; "i"  latin small letter i with grave  
+082  &iacute; &#237; &#xED; "i"  latin small letter i with acute  
+083  &icirc;  &#238; &#xEE; "i"  latin small letter i with circumflex  
+084  &iuml;  &#239; &#xEF; "i"  latin small letter i with diaeresis  
+085  &eth;  &#240; &#xF0; "d"  latin small letter eth  
+086  &ntilde; &#241; &#xF1; "n"  latin small letter n with tilde  
+087  &ograve; &#242; &#xF2; "o"  latin small letter o with grave  
+088  &oacute; &#243; &#xF3; "o"  latin small letter o with acute  
+089  &ocirc;  &#244; &#xF4; "o"  latin small letter o with circumflex  
+090  &otilde; &#245; &#xF5; "o"  latin small letter o with tilde  
+091  &ouml;  &#246; &#xF6; "o"  latin small letter o with diaeresis  
+092  &divide; &#247; &#xF7; "÷"  division sign  
+093  &oslash; &#248; &#xF8; "o"  latin small letter o with stroke, = latin small letter o slash  
+094  &ugrave; &#249; &#xF9; "u"  latin small letter u with grave  
+095  &uacute; &#250; &#xFA; "u"  latin small letter u with acute  
+096  &ucirc;  &#251; &#xFB; "u"  latin small letter u with circumflex  
+097  &uuml;  &#252; &#xFC; "u"  latin small letter u with diaeresis  
+098  &yacute; &#253; &#xFD; "y"  latin small letter y with acute  
+099  &thorn;  &#254; &#xFE; "t"  latin small letter thorn with  
+100  &yuml;  &#255; &#xFF; "y"  latin small letter y with diaeresis  
+101  &OElig;  &#338; &#x0152; "?"   latin capital ligature OE  
+102  &oelig;  &#339; &#x0153; "?"   latin small ligature oe  
+103  &Scaron;  &#352; &#x0160; "?"   latin capital letter S with caron  
+104  &scaron;  &#353; &#x0161; "?"   latin small letter s with caron  
+105  &Yuml;  &#376; &#x0178; "?"   latin capital letter Y with diaeresis  
+106  &fnof;  &#402; &#x00;  "?"   latin small f with hook = function = florin  
+107  &circ;  &#710; &#x02C6; "?"   modifier letter circumflex accent  
+108  &tilde;  &#732; &#x02DC; "?"   small tilde  
+109  &Alpha;  &#913; &#x391; "Α"  greek capital letter alpha  
+110  &Beta;  &#914; &#x392; "Β"  greek capital letter beta  
+111  &Gamma;  &#915; &#x393; "Γ"  greek capital letter gamma  
+112  &Delta;  &#916; &#x394; "Δ"  greek capital letter delta  
+113  &Epsilon;  &#917; &#x395; "Ε"  greek capital letter epsilon  
+114  &Zeta;  &#918; &#x396; "Ζ"  greek capital letter zeta  
+115  &Eta;  &#919; &#x397; "Η"  greek capital letter eta  
+116  &Theta;  &#920; &#x398; "Θ"  greek capital letter theta  
+117  &Iota;  &#921; &#x399; "Ι"  greek capital letter iota  
+118  &Kappa;  &#922; &#x39A; "Κ"  greek capital letter kappa  
+119  &Lambda;  &#923; &#x39B; "Λ"  greek capital letter lambda  
+120  &Mu;  &#924; &#x39C; "Μ"  greek capital letter mu  
+121  &Nu;  &#925; &#x39D; "Ν"  greek capital letter nu  
+122  &Xi;  &#926; &#x39E; "Ξ"  greek capital letter xi  
+123  &Omicron;  &#927; &#x39F; "Ο"  greek capital letter omicron  
+124  &Pi;  &#928; &#x3A0; "Π"  greek capital letter pi  
+125  &Rho;  &#929; &#x3A1; "Ρ"  greek capital letter rho  
+126  &Sigma;  &#931; &#x3A3; "Σ"  greek capital letter sigma  
+127  &Tau;  &#932; &#x3A4; "Τ"  greek capital letter tau  
+128  &Upsilon;  &#933; &#x3A5; "Υ"  greek capital letter upsilon  
+129  &Phi;  &#934; &#x3A6; "Φ"  greek capital letter phi  
+130  &Chi;  &#935; &#x3A7; "Χ"  greek capital letter chi  
+131  &Psi;  &#936; &#x3A8; "Ψ"  greek capital letter psi  
+132  &Omega;  &#937; &#x3A9; "Ω"  greek capital letter omega  
+133  &alpha;  &#945; &#x3B1; "α"  greek small letter alpha  
+134  &beta;  &#946; &#x3B2; "β"  greek small letter beta  
+135  &gamma;  &#947; &#x3B3; "γ"  greek small letter gamma  
+136  &delta;  &#948; &#x3B4; "δ"  greek small letter delta  
+137  &epsilon;  &#949; &#x3B5; "ε"  greek small letter epsilon  
+138  &zeta;  &#950; &#x3B6; "ζ"  greek small letter zeta  
+139  &eta;  &#951; &#x3B7; "η"  greek small letter eta  
+140  &theta;  &#952; &#x3B8; "θ"  greek small letter theta  
+141  &iota;  &#953; &#x3B9; "ι"  greek small letter iota  
+142  &kappa;  &#954; &#x3BA; "κ"  greek small letter kappa  
+143  &lambda;  &#955; &#x3BB; "λ"  greek small letter lambda  
+144  &mu;  &#956; &#x3BC; "μ"  greek small letter mu  
+145  &nu;  &#957; &#x3BD; "ν"  greek small letter nu  
+146  &xi;  &#958; &#x3BE; "ξ"  greek small letter xi  
+147  &omicron;  &#959; &#x3BF; "ο"  greek small letter omicron  
+148  &pi;  &#960; &#x3C0; "π"  greek small letter pi  
+149  &rho;  &#961; &#x3C1; "ρ"  greek small letter rho  
+150  &sigmaf;  &#962; &#x3C2; "?"  greek small letter final sigma  
+151  &sigma;  &#963; &#x3C3; "σ"  greek small letter sigma  
+152  &tau;  &#964; &#x3C4; "τ"  greek small letter tau  
+153  &upsilon;  &#965; &#x3C5; "υ"  greek small letter upsilon  
+154  &phi;  &#966; &#x3C6; "φ"  greek small letter phi  
+155  &chi;  &#967; &#x3C7; "χ"  greek small letter chi  
+156  &psi;  &#968; &#x3C8; "ψ"  greek small letter psi  
+157  &omega;  &#969; &#x3C9; "ω"  greek small letter omega  
+158  &thetasym; &#977; &#x3D1; "?"  greek small letter theta symbol  
+159  &upsih;  &#978; &#x3D2; "?"  greek upsilon with hook symbol  
+160  &piv;  &#982; &#x3D3; "?"  greek pi symbol  
+161  &bull;  &#8226; &#x2022; "?"  bullet = black small circle  
+162  &hellip;  &#8230; &#x2026; "…"  horizontal ellipsis = three dot leader  
+163  &prime;  &#8242; &#x2032; "′"  prime = minutes = feet  
+164  &Prime;  &#8243; &#x2033; "″"  double prime = seconds = inches  
+165  &oline;  &#8254; &#x203E; "?"  overline = spacing overscore  
+166  &frasl;  &#8260; &#x2044; "?"  fraction slash  
+167  &weierp;  &#8472; &#x2118; "?"  script capital P = power set = Weierstrass p  
+168  &image;  &#8465; &#x2111; "?"  blackletter capital I = imaginary part  
+169  &real;  &#8476; &#x211C; "?"  blackletter capital R = real part symbol  
+170  &trade;  &#8482; &#x2122; "?"  trade mark sign  
+171-  &alefsym;  &#8501; &#x2135; "?"  alef symbol = first transfinite cardinal  
+172  &larr;  &#8592; &#x2190; "←"  leftwards arrow  
+173  &uarr;  &#8593; &#x2191; "↑"  upwards arrow  
+174  &rarr;  &#8594; &#x2192; "→"  rightwards arrow  
+175  &darr;  &#8595; &#x2193; "↓"  downwards arrow  
+176  &harr;  &#8596; &#x2194; "?"  left right arrow  
+177  &crarr;  &#8629; &#x21B5; "?"  downwards arrow with corner leftwards = carriage return  
+178  &lArr;  &#8656; &#x21D0; "?"  leftwards double arrow  
+179  &uArr;  &#8657; &#x21D1; "?"  upwards double arrow  
+180  &rArr;  &#8658; &#x21D2; "⇒"  rightwards double arrow  
+181  &dArr;  &#8659; &#x21D3; "?"  downwards double arrow  
+182  &hArr;  &#8660; &#x21D4; "⇔"  left right double arrow  
+183  &forall;  &#8704; &#x2200; "∀"  for all  
+184  &part;  &#8706; &#x2202; "∂"  partial differential  
+185  &exist;  &#8707; &#x2203; "∃"  there exists  
+186  &empty;  &#8709; &#x2205; "?"  empty set = null set = diameter  
+187  &nabla;  &#8711; &#x2207; "∇"  nabla = backward difference  
+188  &isin;  &#8712; &#x2208; "∈"  element of  
+189  &notin;  &#8713; &#x2209; "?"  not an element of  
+190  &ni;  &#8715; &#x220B; "∋"  contains as member  
+191  &prod;  &#8719; &#x220F; "?"  n-ary product = product sign  
+192  &sum;  &#8721; &#x2211; "∑"  n-ary sumation  
+193  &minus;  &#8722; &#x2212; "?"  minus sign  
+194  &lowast;  &#8727; &#x2217; "?"  asterisk operator  
+195  &radic;  &#8730; &#x221A; "√"  square root = radical sign  
+196  &prop;  &#8733; &#x221D; "∝"  proportional to  
+197  &infin;  &#8734; &#x221E; "∞"  infinity  
+198  &ang;  &#8736; &#x2220; "∠"  angle  
+199  &and;  &#8743; &#x2227; "∧"  logical and = wedge  
+200  &or;  &#8744; &#x2228; "∨"  logical or = vee  
+201  &cap;  &#8745; &#x2229; "∩"  intersection = cap  
+202  &cup;  &#8746; &#x222A; "∪"  union = cup  
+203  &int;  &#8747; &#x222B; "∫"  integral  
+204  &there4;  &#8756; &#x2234; "∴"  therefore  
+205  &sim;  &#8764; &#x223C; "?"  tilde operator = varies with = similar to  
+206  &cong;  &#8773; &#x2245; "?"  approximately equal to  
+207  &asymp;  &#8776; &#x2248; "?"  almost equal to = asymptotic to  
+208  &ne;  &#8800; &#x2260; "≠"  not equal to  
+209  &equiv;  &#8801; &#x2261; "≡"  identical to  
+210  &le;  &#8804; &#x2264; "?"  less-than or equal to  
+211  &ge;  &#8805; &#x2265; "?"  greater-than or equal to  
+212  &sub;  &#8834; &#x2282; "⊂"  subset of  
+213  &sup;  &#8835; &#x2283; "⊃"  superset of  
+214  &nsub;  &#8836; &#x2284; "?"  not a subset of  
+215  &sube;  &#8838; &#x2286; "⊆"  subset of or equal to  
+216  &supe;  &#8839; &#x2287; "⊇"  superset of or equal to  
+217  &oplus;  &#8853; &#x2295; "?"  circled plus = direct sum  
+218  &otimes;  &#8855; &#x2297; "?"  circled times = vector product  
+219  &perp;  &#8869; &#x22A5; "⊥"  up tack = orthogonal to = perpendicular  
+220  &sdot;  &#8901; &#x22C5; "?"  dot operator  
+221  &lceil;  &#8968; &#x2308; "?"  left ceiling = apl upstile  
+222  &rceil;  &#8969; &#x2309; "?"  right ceiling  
+223  &lfloor;  &#8970; &#x230A; "?"  left floor = apl downstile  
+224  &rfloor;  &#8971; &#x230B; "?"  right floor  
+225  &lang;  &#9001; &#x2329; "?"  left-pointing angle bracket = bra  
+226  &rang;  &#9002; &#x232A; "?"  right-pointing angle bracket = ket  
+227  &loz;  &#9674; &#x25CA; "?"  lozenge  
+228  &spades;  &#9824; &#x2660; "?" スペード  black spade suit  
+229  &clubs;  &#9827; &#x2663; "?" クラグ  black club suit = shamrock  
+230  &hearts;  &#9829; &#x2665; "?" ハート  black heart suit = valentine  
+231  &diams;  &#9830; &#x2666; "?" ダイヤ  black diamond suit  
+232  &ensp;  &#8194; &#x2002; "?"  en space  
+233  &emsp;  &#8195; &#x2003; "?"  em space  
+234  &thinsp;  &#8201; &#x2009; "?"  thin space  
+235  &zwnj;  &#8204; &#x200C; "?"  zero width non-joiner  
+236  &zwj;  &#8205; &#x200D; "?"  zero width joiner  
+237  &lrm;  &#8206; &#x200E; "?"  left-to-right mark  
+238  &rlm;  &#8207; &#x200F; "?"  right-to-left mark  
+239  &ndash;  &#8211; &#x2013; "?"  en dash  
+240  &mdash;  &#8212; &#x2014; "?"  em dash  
+241  &lsquo;  &#8216; &#x2018; "‘"  left single quotation mark  
+242  &rsquo;  &#8217; &#x2019; "’"  right single quotation mark  
+243  &sbquo;  &#8218; &#x201A; "?"  single low-9 quotation mark  
+244  &ldquo;  &#8220; &#x201C; "“"  left double quotation mark  
+245  &rdquo;  &#8221; &#x201D; "”"  right double quotation mark  
+246  &bdquo;  &#8222; &#x201E; "?"  double low-9 quotation mark  
+247  &dagger;  &#8224; &#x2020; "†"  dagger  
+248  &Dagger;  &#8225; &#x2021; "‡"  double dagger  
+249  &permil;  &#8240; &#x2030; "‰"  per mille sign  
+250  &lsaquo;  &#8249; &#x2039; "?"  single left-pointing angle quotation mark  
+251  &rsaquo;  &#8250; &#x203A; "?"  single right-pointing angle quotation mark  
+252  &euro;  &#8364; &#x20AC; "?"  ユーロ  euro sign  

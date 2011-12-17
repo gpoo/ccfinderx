@@ -1,0 +1,38 @@
+{
+	"metrics" : {
+		"bar_colors" : [
+			[ 0.390, 0.390, 0.782 ],
+			[ 0.782, 0.782, 0.782 ],
+			[ 0.782, 0.390, 0.390 ]
+		],
+		"frame" : [ 0.75, 0.75, 0.75 ]
+	},
+	"clonescatterplot" : {
+		"bar_colors" : [
+			[ 0.45, 0.45, 0.90 ],
+			[ 0.0, 0.0, 0.0 ],
+			[ 0.90, 0.45, 0.45 ]
+		],
+		"background" : [ 1.0, 1.0, 1.0 ],
+		"border_background" : [ 0.192, 0.404, 0.271 ],
+		"ruler_background" : [ 0.4375, 0.4140, 0.3515 ],
+		"noclone_area_background" : [ 0.7656, 0.6836, 0.6328 ],
+		"selected_file_frame" : [ 0.3490, 0.7255, 0.7765 ],
+		"masked_file_background" : [ 1.0, 1.0, 0.0 ],
+		"directory_name_popup_background" : [ 0.9725, 0.9569, 0.9020 ]
+	},
+	"sourcetext" : {
+		"background" : [ 1.0, 1.0, 1.0 ],
+		"clonepair_background" : [ 0.8789, 0.8789, 0.8789 ],
+		"selected_clonepair_background" : [ 0.8824, 0.9686, 0.9804 ],
+		"foreground" : [ 0.0, 0.0, 0.0 ],
+		"reservedword_foreground" : [ 0.46875, 0.0, 0.0 ],
+		"neglectedtext_foreground" : [ 0.0, 0.626, 0.0 ]
+	},
+	"sourcetext_ruler" : {
+		"background" : [ 0.4375, 0.4140, 0.3515 ],
+		"scrollview_frame" : [ 1.0, 1.0, 0 ],
+		"filebody_line" : [ 1.0, 1.0, 1.0 ],
+		"clone_line" : [ 0.75, 0.75, 0.75 ]
+	}
+}

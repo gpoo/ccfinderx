@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pyeasytorq", "pyeasytorq.vcproj", "{817213E9-459A-4E06-A339-7947CE6BC02C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{817213E9-459A-4E06-A339-7947CE6BC02C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{817213E9-459A-4E06-A339-7947CE6BC02C}.Debug|Win32.Build.0 = Debug|Win32
+		{817213E9-459A-4E06-A339-7947CE6BC02C}.Debug|x64.ActiveCfg = Debug|x64
+		{817213E9-459A-4E06-A339-7947CE6BC02C}.Debug|x64.Build.0 = Debug|x64
+		{817213E9-459A-4E06-A339-7947CE6BC02C}.Release|Win32.ActiveCfg = Release|Win32
+		{817213E9-459A-4E06-A339-7947CE6BC02C}.Release|Win32.Build.0 = Release|Win32
+		{817213E9-459A-4E06-A339-7947CE6BC02C}.Release|x64.ActiveCfg = Release|x64
+		{817213E9-459A-4E06-A339-7947CE6BC02C}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

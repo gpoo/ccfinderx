@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "torq", "torq.vcproj", "{F6EFEF47-D2E0-4E49-B22E-353C128D068E}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		DebugDll = DebugDll
+		Release = Release
+		ReleaseDll = ReleaseDll
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{F6EFEF47-D2E0-4E49-B22E-353C128D068E}.Debug.ActiveCfg = Debug|Win32
+		{F6EFEF47-D2E0-4E49-B22E-353C128D068E}.Debug.Build.0 = Debug|Win32
+		{F6EFEF47-D2E0-4E49-B22E-353C128D068E}.DebugDll.ActiveCfg = DebugDll|Win32
+		{F6EFEF47-D2E0-4E49-B22E-353C128D068E}.DebugDll.Build.0 = DebugDll|Win32
+		{F6EFEF47-D2E0-4E49-B22E-353C128D068E}.Release.ActiveCfg = Release|Win32
+		{F6EFEF47-D2E0-4E49-B22E-353C128D068E}.Release.Build.0 = Release|Win32
+		{F6EFEF47-D2E0-4E49-B22E-353C128D068E}.ReleaseDll.ActiveCfg = ReleaseDll|Win32
+		{F6EFEF47-D2E0-4E49-B22E-353C128D068E}.ReleaseDll.Build.0 = ReleaseDll|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

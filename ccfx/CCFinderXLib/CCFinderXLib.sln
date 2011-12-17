@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CCFinderXLib", "CCFinderXLib.vcproj", "{8CC00461-1537-47BC-8723-8A7364FCACDE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{703BA57A-8A5A-471B-AAA0-8CC38153CB82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CC00461-1537-47BC-8723-8A7364FCACDE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8CC00461-1537-47BC-8723-8A7364FCACDE}.Debug|Win32.Build.0 = Debug|Win32
+		{8CC00461-1537-47BC-8723-8A7364FCACDE}.Release|Win32.ActiveCfg = Release|Win32
+		{8CC00461-1537-47BC-8723-8A7364FCACDE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
