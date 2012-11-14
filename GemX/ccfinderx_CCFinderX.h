@@ -33,22 +33,6 @@ JNIEXPORT jintArray JNICALL Java_ccfinderx_CCFinderX_getVersion
 
 /*
  * Class:     ccfinderx_CCFinderX
- * Method:    getUserID
- * Signature: ()Ljava/lang/String;
- */
-JNIEXPORT jstring JNICALL Java_ccfinderx_CCFinderX_getUserID
-  (JNIEnv *, jobject);
-
-/*
- * Class:     ccfinderx_CCFinderX
- * Method:    getExpireDate
- * Signature: ()I
- */
-JNIEXPORT jint JNICALL Java_ccfinderx_CCFinderX_getExpireDate
-  (JNIEnv *, jobject);
-
-/*
- * Class:     ccfinderx_CCFinderX
  * Method:    openOfficialSiteTop
  * Signature: (Ljava/lang/String;)V
  */
