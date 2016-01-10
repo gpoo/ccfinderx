@@ -27,7 +27,7 @@ About this repository
 
 This is a clone of [CCFinderX][2] that has the settings to build with autoconf on a Linux machine.
 
-The autoconf setting is not finished (it does not pass `make distcheck`), but it is something to start with. The process to build `ccfinderx` is:
+The process to build `ccfinderx` is:
 
     $ libtoolize
     $ aclocal -I m4 --install

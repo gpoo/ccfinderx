@@ -27,10 +27,34 @@ picosel_picosel_SOURCES = \
 	common/unportable.cpp
 
 ccfx_ccfx_SOURCES = \
+	common/allocaarray.h \
+	common/argvbuilder.h \
+	common/base64encoder.h \
+	common/bitcounttable.h \
+	common/bitvector.h \
+	common/datastructureonfile.h \
+	common/ffuncrenamer.h \
+	common/filestructwrapper.h \
+	common/hash_map_includer.h \
+	common/hash_set_includer.h \
+	common/unportable.h \
+	common/utf8support.h \
+	common/win32util.h \
 	common/base64encoder.cpp \
 	common/bitvector.cpp \
 	common/unportable.cpp \
 	common/utf8support.cpp \
+	ccfx/ccfxcommon.h \
+	ccfx/ccfxconstants.h \
+	ccfx/clonedataassembler.h \
+	ccfx/filteringmain.h \
+	ccfx/findfilemain.h \
+	ccfx/metricmain.h \
+	ccfx/preprocessorinvoker.h \
+	ccfx/prettyprintmain.h \
+	ccfx/rawclonepairdata.h \
+	ccfx/shapedfragmentcalculator.h \
+	ccfx/transformermain.h \
 	ccfx/ccfx.cpp \
 	ccfx/ccfxcommon.cpp \
 	ccfx/prettyprintermain.cpp \
@@ -44,10 +68,17 @@ torq_pyeasytorq_easytorq_la_CPPFLAGS = $(common_CPPFLAGS) \
 	-O2 -fpermissive $(PYTHON_INCLUDES)
 
 torq_pyeasytorq_easytorq_la_SOURCES = \
-	torq/pyeasytorq/pyeasytorq.cpp \
-	torq/easytorq/easytorq.cpp \
+	torq/interpreter.h \
+	torq/specialchars.h \
+	torq/texttoken.h \
+	torq/torqcommon.h \
+	torq/torqparser.h \
+	torq/torqtokenizer.h \
 	torq/interpreter.cpp \
 	torq/texttoken.cpp \
+	torq/easytorq/easytorq.h \
+	torq/easytorq/easytorq.cpp \
+	torq/pyeasytorq/pyeasytorq.cpp \
 	torq/torqcommon.cpp \
 	common/unportable.cpp \
 	common/utf8support.cpp
