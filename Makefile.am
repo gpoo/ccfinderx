@@ -87,7 +87,7 @@ torq_pyeasytorq_easytorq_la_LIBADD = $(common_LIBADD)
 torq_pyeasytorq_easytorq_la_LDFLAGS = -avoid-version -module
 
 ccfx_CCFinderXLib_lib_CCFinderXLib_la_CPPFLAGS = $(common_CPPFLAGS) \
-	-O2 -fpermissive -I/usr/lib/jvm/java-6-openjdk/include/
+	-O2 -fpermissive
 
 ccfx_CCFinderXLib_lib_CCFinderXLib_la_SOURCES = \
 	GemX/ccfinderx_CCFinderX.h \
