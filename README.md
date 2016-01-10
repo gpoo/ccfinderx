@@ -25,7 +25,8 @@ Features of CCFinderX
 About this repository
 ---------------------
 
-This is a clone of [CCFinderX][2] that has the settings to build with autoconf on a Linux machine.
+This is a clone of [CCFinderX][2] that has the settings to build with
+autoconf on a Linux machine.
 
 The process to build `ccfinderx` is:
 
@@ -35,6 +36,8 @@ The process to build `ccfinderx` is:
     $ automake --foreign --add-missing
     $ configure
     $ make
+
+`ccfinderx` requires the development packages for Python, Boost, JNI (Java SDK), and ICU.
 
 If there is an error in make `ccfinderx_CCFinderX.h`, then is necessary to generate it via:
 
