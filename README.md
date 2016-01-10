@@ -34,7 +34,7 @@ The process to build `ccfinderx` is:
     $ aclocal -I m4 --install
     $ autoconf
     $ automake --foreign --add-missing
-    $ configure
+    $ ./configure
     $ make
 
 `ccfinderx` requires the development packages for Python, Boost, JNI (Java SDK), and ICU.
