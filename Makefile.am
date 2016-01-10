@@ -63,8 +63,11 @@ ccfx_ccfx_SOURCES = \
 ccfx_ccfx_CPPFLAGS = $(common_CPPFLAGS) -O2 -fpermissive
 ccfx_ccfx_LDFLAGS = $(common_LIBADD)
 
+# Remove -Wstrict-prototypes as this is only for ObjC and C, but we
+# compiling with C++. Thiss only works with GNU Make.
+CXX_PYTHON_INCLUDES := $(filter-out -Wstrict-prototypes,$(PYTHON_INCLUDES))
 torq_pyeasytorq_easytorq_la_CPPFLAGS = $(common_CPPFLAGS) \
-	-O2 -fpermissive $(PYTHON_INCLUDES)
+	-O2 -fpermissive $(CXX_PYTHON_INCLUDES)
 
 torq_pyeasytorq_easytorq_la_SOURCES = \
 	torq/interpreter.h \
