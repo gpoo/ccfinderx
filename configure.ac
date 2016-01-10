@@ -1,5 +1,5 @@
 AC_PREREQ(2.5.2)
-AC_INIT(ccfx/ccfx.cpp,0.1)
+AC_INIT(ccfx/ccfx.cpp,10.2.8)
 
 AM_INIT_AUTOMAKE(1.8)
 
@@ -31,7 +31,7 @@ ICU_LIBS=`icu-config --ldflags --ldflags-icuio --ldflags-layout`
 AC_SUBST(ICU_LIBS)
 
 LT_INIT
-CCFINDER_LIB_VER="0:1"
+CCFINDER_LIB_VER="10:2:8"
 AC_SUBST(CCFINDER_LIB_VER)
 
 AC_OUTPUT(
