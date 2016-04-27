@@ -28,7 +28,17 @@ About this repository
 This is a clone of [CCFinderX][2] that has the settings to build with
 autoconf on a Linux machine.
 
-The process to build `ccfinderx` is:
+On Debian 8 (jessie), you need at least the following packages installed:
+    # aptitude install libtool autoconf automake make build-essential autoconf-archive
+
+You'll also need various Boost libraries, it may be easiest to just do:
+
+    # aptitude install libboost-all-dev
+
+Note that `autconf-archive` is important to get `AX_JNI_INCLUDE_DIR` and
+`AX_BOOST_BASE` referenced in `configure.ac`.
+
+After dependencies are installed, the process to build `ccfinderx` is:
 
     $ libtoolize
     $ aclocal -I m4 --install
