@@ -28,6 +28,8 @@ About this repository
 This is a clone of [CCFinderX][2] that has the settings to build with
 autoconf on a Linux machine.
 
+`ccfinderx` requires the development packages for Python, Boost, JNI (Java SDK), and ICU.
+
 On Debian 8 (jessie), you need at least the following packages installed:
     # aptitude install libtool autoconf automake make build-essential autoconf-archive
 
@@ -46,8 +48,6 @@ After dependencies are installed, the process to build `ccfinderx` is:
     $ automake --foreign --add-missing
     $ ./configure
     $ make
-
-`ccfinderx` requires the development packages for Python, Boost, JNI (Java SDK), and ICU.
 
 If there is an error in make `ccfinderx_CCFinderX.h`, then is necessary to generate it via:
 
